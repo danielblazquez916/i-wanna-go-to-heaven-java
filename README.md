@@ -1,5 +1,5 @@
 <h1 align="center">I Wanna Go To Heaven: <br> Java-Made 2D Hard Platformer</h1>
-<p align="center"><a href="#project-description">Project Description</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a></p>
 
 <img src="" alt="" align="middle" width="auto" height="auto">
 
