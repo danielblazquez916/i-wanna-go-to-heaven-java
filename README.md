@@ -1,5 +1,5 @@
 <h1 align="center">I Wanna Go To Heaven: <br> Java-Made 2D Hard Platformer</h1>
-<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <img src="" alt="" align="middle" width="auto" height="auto">
 
@@ -23,3 +23,9 @@ Although it’s an older project and some design choices might not be ideal by t
 <p>Visuals are intentionally quirky and textures are simple but give the game personality.</p>
 
 <p><em>Note:</em> This was a learning project, so some patterns and implementations may not follow modern best practices.</p>
+
+## Tech Stack:
+
+## Installation:
+
+## Screenshots:
