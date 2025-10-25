@@ -20,12 +20,26 @@ Although it’s an older project and some design choices might not be ideal by t
 <li>A final boss inspired by SrPelo, a well-known online animator</li>
 </ul>
 
-<p>Visuals are intentionally quirky and textures are simple but give the game personality.</p>
+<p>Visuals are intentionally quirky and textures are simple but give the game personality :P</p>
 
 <p><em>Note:</em> This was a learning project, so some patterns and implementations may not follow modern best practices.</p>
 
 ## Tech Stack:
+<ul style="text-align: left; display: inline-block;">
+  <li>Languages: Java.</li>
+  <li>Libraries: Swing (GUI), AWT (2D graphics), javax.sound.sampled (sound)</li>
+  <li>Tools: Git, NetBeans</li>
+</ul>
 
 ## Installation:
+1. Clone the repository:
+```bash 
+  git clone https://github.com/danielblazquez916/i-wanna-go-to-heaven-java.git
+```
+2. Open NetBeans and select File → Open Project.
+3. Navigate to the cloned folder and open the project.
+4. Compile and run the project by clicking the Run button or pressing <kbd>F6</kbd>.
+
+- Note: Make sure you have Java JDK installed (version 8 or higher recommended).
 
 ## Screenshots:
