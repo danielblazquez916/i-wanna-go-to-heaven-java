@@ -1,7 +1,9 @@
 <h1 align="center">I Wanna Go To Heaven: <br> Java-Made 2D Hard Platformer</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
-<img src="" alt="" align="middle" width="auto" height="auto">
+<p align="center">
+  <img src="screenshots/IWGTH.png" alt="Engine Banner" width="80%">
+</p>
 
 ## Project Description:
 
@@ -43,3 +45,4 @@ Although it’s an older project and some design choices might not be ideal by t
 - Note: Make sure you have Java JDK installed (version 8 or higher recommended).
 
 ## Screenshots:
+<p align="center"> <img src="screenshots/sc1.png" alt="Screenshot 1" width="45%"> <img src="screenshots/sc2.png" alt="Screenshot 2" width="45%"> </p> <p align="center"> <img src="screenshots/sc3.png" alt="Screenshot 3" width="45%"> <img src="screenshots/sc4.png" alt="Screenshot 4" width="45%"> </p> <p align="center"> <img src="screenshots/sc5.png" alt="Screenshot 5" width="45%"> <img src="screenshots/sc6.png" alt="Screenshot 6" width="45%"> </p> <p align="center"> <img src="screenshots/sc7.png" alt="Screenshot 7" width="45%"> <img src="screenshots/sc8.png" alt="Screenshot 8" width="45%"> </p>
