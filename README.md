@@ -2,7 +2,7 @@
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
-  <img src="screenshots/IWGTH.png" alt="Engine Banner" width="80%">
+  <img src="screenshots/IWGTH.png" alt="IWGTH Banner" width="80%">
 </p>
 
 ## Project Description:
